@@ -1,6 +1,3 @@
-<table border="0" width="400">
-  <tr>
-    <td>
     <p align="center">
     
     <img border="0" src="pics/sonoff2.png" width="304" height="148"><br>
@@ -156,7 +153,4 @@
     <p>Integration with Amazon Echo, Dot and Tap is 
     possible with fauxmo.py.</font></p>
     <p>The list goes on.....</font></p>
-    <p align="left">&nbsp;</td>
-  </tr>
-</table>
-
+ 
