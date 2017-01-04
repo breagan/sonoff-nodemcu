@@ -1,4 +1,4 @@
-<table border="0" width="500">
+<table border="0" width="400">
   <tr>
     <td>
     <p align="center">
@@ -38,17 +38,32 @@
     enduser_setup, file, gpio, http, mqtt, net, node, tmr, uart and wifi.</font></p>
     <p>
     <font color="#000059">Flashing the ESP8266 was accomplished by attaching a header to the 
-    existing circuit board as illustrated here and using a 3.3v FTDI.</font><p align="center"><font color="#000059"><img border="1" src="pics/pinout.png" width="400" height="504"></font></p>
+    existing circuit board as illustrated here and using a 3.3v FTDI.</font><p align="center"><font color="#000059">
+    <img border="1" src="pics/pinout.png" width="400" height="504" align="left"></font></p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
     <p align="center"><font color="#000059">
     <img border="0" src="pics/caution.png" width="100" height="83"></font></p>
     <p align="left"><b><font color="#000059"><br>
-    </font><font color="#B30000">Caution!!&nbsp; It is possible to flash and 
+    </font><font color="#FF0000">Caution!!&nbsp; It is possible to flash and 
     program the ESP8266 using the power from a 115vac or 240vac source, However 
     not recommended.&nbsp; </font></b></p>
-    <p align="left"><font color="#B30000"><b>Accessing these pins also allow 
+    <p align="left"><font color="#FF0000"><b>Accessing these pins also allow 
     access to the high voltage portions of this circuit board.&nbsp; This is a 
     shock hazard!</b></font></p>
-    <p align="left"><font color="#B30000"><b>If you are attempting to do this 
+    <p align="left"><font color="#FF0000"><b>If you are attempting to do this 
     mod, use a 3.3v power supply and do not plug in the Sonoff to AC until fully 
     assembled.</b></font></p>
     <p align="center"><font color="#000059">
