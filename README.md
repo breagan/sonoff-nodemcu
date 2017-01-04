@@ -1,4 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="500">
+<table border="0" width="500">
   <tr>
     <td>
     <p align="center">
@@ -81,16 +81,41 @@
     <br>
     The “XXXXXX” will be replaced by the last 4 octets of the MAC address 
     printed on the bottom of the switch. In this example the network is named 
-    “SetupGadget_E7C925”.</font><p align="center"><font color="#000059"><img border="1" src="pics/setup00.png" width="250" height="443"></font></p>
+    “SetupGadget_E7C925”.</font><p align="center"><font color="#000059">
+    <img border="1" src="pics/setup00.png" width="250" height="443" align="left" hspace="0"></font></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
     <p><font color="#000059">After successful connection to the network, open a browser 
     and browse to any website. (not https).</font></p>
     <p align="left"><font color="#000059">Or go directly to 192.168.4.1 and the setup screen will be displayed:</font></p>
 
-    <p align="center"><font color="#000059">&nbsp;:<img border="1" src="pics/setup02.png" width="250" height="443"></font></p>
+    <p align="left"><font color="#000059">&nbsp;:<img border="1" src="pics/setup02.png" width="250" height="443"></font></p>
 
     <p><font color="#000059">Select 
     your SSID and enter the Password:</font></p>
-    <p align="center"><font color="#000059">&nbsp;.<img border="1" src="pics/setup04.png" width="250" height="443"></font></p>
+    <p align="center"><font color="#000059">&nbsp;.<img border="1" src="pics/setup04.png" width="250" height="443" align="left"></font></p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
     <p align="left"><font color="#000059">Power cycle the switch.</font></p>
     <p align="left"><font color="#000059">Determine the switch's IP number.<br>
     <br>
@@ -107,6 +132,7 @@
     <p align="left"><font color="#000059">
 <img border="1" src="pics/webpage1.png" width="485" height="334"></font></p>
 
+    <p>&nbsp;</p>
     <p><font color="#000059">With NodeMCU installed it is now 
     possible to integrate this switch with existing systems.</font></p>
     <p>
