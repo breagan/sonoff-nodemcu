@@ -4,7 +4,7 @@
     <p align="center">
     <font color="#000059">
     <img border="0" src="pics/sonoff2.png" width="304" height="148"><br>
-    <b><font size="12">+</font></b><br>
+    <b><font size="7">+</font></b><br>
     <img border="0" src="pics/nodemcu2.png" width="148" height="145"></font></td>
   </tr>
   <tr>
