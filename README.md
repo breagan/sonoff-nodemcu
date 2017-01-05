@@ -6,8 +6,7 @@
 
 #### From the ITEAD website:
 
-“Sonoff is a cost effective smart home solution designed and produced by 
-ITEAD. Sonoff is a ESP8266 based WiFi wireless switch that can connect to appliance of different types and brands. Sonoff transmits data to cloud platform through the WiFi”
+#####“Sonoff is a cost effective smart home solution designed and produced by ITEAD. Sonoff is a ESP8266 based WiFi wireless switch that can connect to appliance of different types and brands. Sonoff transmits data to cloud platform through the WiFi”
 
 The switch is controlled by the eWeLink App and managed in the cloud.
 
@@ -23,7 +22,7 @@ However, open source firmware provides much flexibility and many avenues of prog
 
 NodeMCU is open source. NodeMCU is programmed with the LUA programming language and has modules to support just about any project imaginable. 
 
-This modification provides a base functionality.  The switch can be controlled from any web browser on the “local LAN”.  The button also provides a toggle so that manual operation of the switch is available.  The LED provides setup and operational status indication.
+This modification provides a base functionality.  The switch can be controlled from any web browser on the “local LAN”.  The button also provides a toggle so that manual operation of the switch is available.  The LED provides setup and operational status indication.  After a power interruption the last state of the switch is saved and the switch is set to that state when power is restored.
 
 NodeMCU, from the master branch has been flashed to this switch. 
 Modules included are:
@@ -58,7 +57,9 @@ If the LED stays on for more than 5 seconds, the switch needs to be configured t
 
 If the LED remains illuminated for more than 5 seconds, the switch is automatically put into WiFi Access Point mode.
 
-Use a wireless device, such as a laptop or smart phone to connect to the switches access point. It will be listed as an available network. ie __“SetupGadget_XXXXXX”__. 
+Use a wireless device, such as a laptop or smart phone and connect to the switch's access point. 
+
+The switch will be listed as an available network. ie __“SetupGadget_XXXXXX”__. 
 
 ![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/setup00.png )
 
