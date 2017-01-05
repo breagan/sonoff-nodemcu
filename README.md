@@ -57,8 +57,12 @@ If the LED stays on for more than 5 seconds, the switch needs to be configured t
 
 If the LED remains illuminated for more than 5 seconds, the switch is automatically put into WiFi Access Point mode.
 
+<<<<<<< HEAD
 Use a wireless device, such as a laptop or smart phone and connect to the switch's access point. 
 
+=======
+Use a wireless device, such as a laptop or smart phone and connect to the switches access point. 
+>>>>>>> origin/master
 The switch will be listed as an available network. ie __“SetupGadget_XXXXXX”__. 
 
 ![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/setup00.png )
