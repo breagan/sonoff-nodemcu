@@ -1,8 +1,8 @@
-![sonoff](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/sonof2.png )
+![sonoff](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/sonoff2.png )
 
-![alt text](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/plus-sign-simple.png )
+![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/plus-sign-simple.png )
 
-![alt text](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/nodemcu2.png )
+![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/nodemcu2.png )
 
 #### From the ITEAD website:
 
@@ -88,12 +88,12 @@ Modules included are:
 
 Flashing the ESP8266 was accomplished by attaching a header to the existing circuit board as illustrated here and using a 3.3v FTDI.
 
-![alt text](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/pinout.png )
+![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/pinout.png )
 
-![alt text](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/caution.png )
+![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/caution.png )
 
 #### Caution!!  It is possible to flash and program the ESP8266 using the power from a 115vac or 240vac source, However not recommended.  Accessing these pins also allow access to the high voltage portions of this circuit board.  This is a shock hazard! If you are attempting to do this mod, use a 3.3v power supply and do not plug in the Sonoff to AC until fully assembled.
-![alt text](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/caution.png )
+![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/caution.png )
 
 The ESP8266 is flashed using flash_download_tool_v1.2 and programming files were uploaded via ESPlorer v0.2.0-rc2 
 
@@ -105,7 +105,7 @@ __"init.lua"__ runs at boot automatically.
 
 When setup and rebooted the switch returns a webpage addressed by its assigned IP number:
 
-![alt text](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/webpage1.png )
+![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/webpage1.png )
 
 
 
