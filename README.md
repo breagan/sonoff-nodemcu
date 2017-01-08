@@ -1,4 +1,4 @@
-![alt text](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/sonoff2.png )
+![sonoff](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/sonof2.png )
 
 ![alt text](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/plus-sign-simple.png )
 
