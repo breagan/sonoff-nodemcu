@@ -92,10 +92,10 @@ Flashing the ESP8266 was accomplished by attaching a header to the existing circ
 
 ![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/caution.png )
 
-#### Caution!!  It is possible to flash and program the ESP8266 using the power from a 115vac or 240vac source, However not recommended.  Accessing these pins also allow access to the high voltage portions of this circuit board.  This is a shock hazard! If you are attempting to do this mod, use a 3.3v power supply and do not plug in the Sonoff to AC until fully assembled.
+#### Caution!!  It is possible to program the ESP8266 using the power from a 115vac or 240vac source, However not recommended.  Accessing these pins also allow access to the high voltage portions of this circuit board.  This is a shock hazard! If you are attempting to do this mod, use a 3.3v power supply and do not plug in the Sonoff to AC until fully assembled.
 ![](https://github.com/breagan/sonoff-nodemcu/raw/master/pics/caution.png )
 
-The ESP8266 is flashed using flash_download_tool_v1.2 and programming files were uploaded via ESPlorer v0.2.0-rc2 
+The ESP8266 program files were uploaded via ESPlorer v0.2.0-rc2 
 
 Three scripts are uploaded to the file system of the ESP8266.
 
